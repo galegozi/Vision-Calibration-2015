@@ -1,0 +1,26 @@
+<head><version>2.71.12</version></head>
+<Axis_Internet_Camera>
+  <pipe_color>0</pipe_color>
+  <auto_back_light>TRUE</auto_back_light>
+  <auto_exposure>FALSE</auto_exposure>
+  <auto_white_balance>TRUE</auto_white_balance>
+  <brightness_value>50</brightness_value>
+  <color_level_value>50</color_level_value>
+  <compression_index>5</compression_index>
+  <contrast_value>50</contrast_value>
+  <exposure_value>50</exposure_value>
+  <ip_address>169.254.78.149</ip_address>
+  <is_active>TRUE</is_active>
+  <mirrot>FALSE</mirrot>
+  <password>ghetto__</password>
+  <port>80</port>
+  <resolution>640x480</resolution>
+  <sharpness_value>50</sharpness_value>
+  <username>root</username>
+</Axis_Internet_Camera>
+<RGB_Filter>
+  <channel>256</channel>
+  <hue_value>50</hue_value>
+  <hysteresis>0</hysteresis>
+  <min_value>166</min_value>
+</RGB_Filter>
